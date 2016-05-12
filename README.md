@@ -2,5 +2,4 @@
 Videogame project 
 
 
-- 2
-- 3
+- Puzzles / Adventures game
